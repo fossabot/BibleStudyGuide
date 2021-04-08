@@ -12,7 +12,8 @@ These instructions will get you a copy of the project up and running on your loc
 <img src="./Assets/favorites.png" width="200">
 
 ### Prerequisites
-
+- Xcode
+- Working knowledge of Swift Language and iOS Development
 
 ### Setup
 
@@ -20,7 +21,7 @@ Setup is quite simple:
 
 ```bash
 $ git clone https://github.com/DevAgani/BibleStudyGuide.git 
-$ cd GithubJobs 
+$ cd BibleStudyGuide 
 ```
 > This will get you a local copy of the project. All you need to do is open xcode and run the application
 
