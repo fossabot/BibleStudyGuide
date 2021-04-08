@@ -8,12 +8,6 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
--
-
-```
--
-```
-
 ### How to use
 
 A step by step guide on how to use the app's features
@@ -23,8 +17,7 @@ End with a few screenshots
 ## Built with
 
 * [Swift 5](https://developer.apple.com/swift/) - The programming language used
-* - - Design Pattern
-* -
+*  Design Pattern
 
 ## Authors
 
@@ -32,13 +25,8 @@ End with a few screenshots
 [<img align="center" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/georgenyakundi/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img align="center" alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/agani_dev)
 
--
-
 ## License
-- 
 
 ## Acknowledgments
-
-* -
 * Inspiration :-
 
