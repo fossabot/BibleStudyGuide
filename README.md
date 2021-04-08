@@ -28,9 +28,9 @@ End with a few screenshots
 
 ## Authors
 
-* **George Nyakundi** 
-[<img align="center" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/georgenyakundi/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img align="center" alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/agani_dev)
+**George Nyakundi** 
+[<img align="center" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/georgenyakundi/){:target="_blank"}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img align="center" alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/agani_dev){:target="_blank"}
 
 -
 
