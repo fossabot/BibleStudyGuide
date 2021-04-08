@@ -6,7 +6,23 @@ A Simple application with intuitive UI aimed to be a Christian Companion in thei
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
+## Screenshots
+
+<img src="./Assets/home.png" width="200">
+<img src="./Assets/favorites.png" width="200">
+
 ### Prerequisites
+
+
+### Setup
+
+Setup is quite simple:
+
+```bash
+$ git clone https://github.com/DevAgani/BibleStudyGuide.git 
+$ cd GithubJobs 
+```
+> This will get you a local copy of the project. All you need to do is open xcode and run the application
 
 ### How to use
 
