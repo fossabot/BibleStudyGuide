@@ -1,4 +1,6 @@
 # Bible Study Guide
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FDevAgani%2FBibleStudyGuide.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FDevAgani%2FBibleStudyGuide?ref=badge_shield)
+
 
 A Simple application with intuitive UI aimed to be a Christian Companion in their christian walk, be it in the private Bible Study time or whenever they are doing a Door-to-Door effort
 
@@ -44,6 +46,8 @@ End with a few screenshots
 
 ## License
 
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FDevAgani%2FBibleStudyGuide.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FDevAgani%2FBibleStudyGuide?ref=badge_large)
+
 ## Acknowledgments
 * Inspiration :-
-
